@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Федор Дыдыкин](https://up.htmlacademy.ru/adaptive/9/user/175413).
-* Наставник: [Илья Сачев].
+* Наставник: Илья Сачев.
 
 ---
 
